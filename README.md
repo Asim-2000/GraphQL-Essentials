@@ -1,1 +1,3 @@
-# GraphQL-101-
+# GraphQL Essentials
+
+## What is GraphQL
